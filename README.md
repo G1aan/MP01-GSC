@@ -1,3 +1,2 @@
 # MP01-GSC
-hola segon commit
-
+Canvi per la branca nova, a ver si surt bé
